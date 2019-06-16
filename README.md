@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## League of Entropy
 
-You can use the [editor on GitHub](https://github.com/leagueofentropy/leagueofentropy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##Decentralized Randomness Beacon
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cloudflare is partnering with organizations worldwide to provide a verifiable, decentralized randomness beacon. A decentralized randomness beacon combines randomness from multiple independent high entropy sources to generate a truly unbiased random number for anyone that may need a public source of randomness.
 
 ### Markdown
 
